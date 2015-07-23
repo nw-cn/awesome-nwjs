@@ -1,6 +1,6 @@
 # Awesome NW.js (node-webkit)
 
-*Inspired by the awesome list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) or [awesome-electron](https://github.com/sindresorhus/awesome-electron).*
+*Inspired by [awesome](https://github.com/sindresorhus/awesome). You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) or [awesome-electron](https://github.com/sindresorhus/awesome-electron).*
 
 > [NW.js](http://nwjs.io) is an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all Web technologies.
 
@@ -33,3 +33,7 @@
 - [Creating Desktop Applications With node-webkit](https://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/)
 - [WebApp to DesktopApp with node-webkit (slides)](http://oldgeeksguide.github.io/presentations/html5devconf2013/wtod.html#/)
 - [Essay on the history and internals of the project](http://yedingding.com/2014/08/01/node-webkit-intro-en.html)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
