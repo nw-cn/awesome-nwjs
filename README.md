@@ -6,6 +6,8 @@
 
 ## Cool Apps
 
+- [Aluxian/Facebook-Messenger-Desktop](https://github.com/Aluxian/Facebook-Messenger-Desktop)
+- [Aluxian/WhatsApp-Desktop](https://github.com/Aluxian/WhatsApp-Desktop)
 - [Desktop of Gitter.IM: gitterHQ/desktop](https://github.com/gitterHQ/desktop)
 - [Hybrid desktop app build tools for Meteor: buildhybrid/desktop](https://github.com/buildhybrid/desktop)
 - [Mango is markdown editor: egrcc/Mango](https://github.com/egrcc/Mango)
@@ -16,6 +18,7 @@
 
 ## Tools & Starters
 
+- [NW.js starter project powered by Gulp: nwjs-starter](https://github.com/Aluxian/nwjs-starter)
 - [A minimalistic NW.js starter project for ninjas: nw-ninja](https://github.com/kessler/nw-ninja)
 - [Comprehensive boilerplate application for NW.js: nw-boilerplate](https://github.com/szwacz/nw-boilerplate)
 - [Lets you build your NW.js apps for mac: nw-builder](https://github.com/mllrsohn/nw-builder)
