@@ -32,6 +32,10 @@
 - [Documentation (Wiki)](https://github.com/nwjs/nw.js/wiki)
 - [Gitter Chatroom](http://gitter.im/nwjs/nw.js)
 
+## NW.js Specific Frameworks
+
+- [Universal GUI](http://ugui.io) - Give CLI's a GUI using just HTML
+
 ## Slides & Posts
 
 - [Introduction to node-webkit (slides)](https://speakerdeck.com/zcbenz/node-webkit-app-runtime-based-on-chromium-and-node-dot-js)
