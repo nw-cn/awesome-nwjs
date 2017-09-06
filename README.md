@@ -42,6 +42,7 @@
 - [Creating Desktop Applications With node-webkit](https://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/)
 - [WebApp to DesktopApp with node-webkit (slides)](http://oldgeeksguide.github.io/presentations/html5devconf2013/wtod.html#/)
 - [Essay on the history and internals of the project](http://yedingding.com/2014/08/01/node-webkit-intro-en.html)
+- [Building your First Desktop App](https://gitlab.com/TheJaredWilcurt/battery-app-workshop/blob/master/README.md) (Step by step guide)
 
 ## License
 
