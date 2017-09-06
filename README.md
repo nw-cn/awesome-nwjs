@@ -10,6 +10,7 @@
 - [Aluxian/Facebook-Messenger-Desktop](https://github.com/Aluxian/Facebook-Messenger-Desktop)
 - [Aluxian/WhatsApp-Desktop](https://github.com/Aluxian/WhatsApp-Desktop)
 - [Desktop of Gitter.IM: gitterHQ/desktop](https://github.com/gitterHQ/desktop)
+- [Scout-App - Sass GUI](http://scout-app.io)
 - [Hybrid desktop app build tools for Meteor: buildhybrid/desktop](https://github.com/buildhybrid/desktop)
 - [Mango is markdown editor: egrcc/Mango](https://github.com/egrcc/Mango)
 - [Editor that speaks: Jayin/Voice-Editor](https://github.com/Jayin/Voice-Editor)
