@@ -23,6 +23,7 @@
 
 - [NW.js starter project powered by Gulp: nwjs-starter](https://github.com/Aluxian/nwjs-starter)
 - [A minimalistic NW.js starter project for ninjas: nw-ninja](https://github.com/kessler/nw-ninja)
+- [NW.js + Vue boilerplate](https://github.com/elegantweb/nwjs-vue)
 - [Comprehensive boilerplate application for NW.js: nw-boilerplate](https://github.com/szwacz/nw-boilerplate)
 - [Lets you build your NW.js apps for mac: nw-builder](https://github.com/mllrsohn/nw-builder)
 
