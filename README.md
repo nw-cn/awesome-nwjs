@@ -4,6 +4,29 @@
 
 > [NW.js](http://nwjs.io) is an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all Web technologies.
 
+
+**Sections:**
+
+* Official Entries
+* Cool Apps
+* Tools & Starters
+  * Vue.js
+  * NW.js Specific Frameworks
+* Tutorials, Posts, Slides
+* License
+
+
+* * *
+
+
+## Offical Entries
+
+- [Offical Site](http://nwjs.io)
+- [Github Repo](https://github.com/nwjs/nw.js)
+- [Documentation (Wiki)](https://github.com/nwjs/nw.js/wiki)
+- [Gitter Chatroom](http://gitter.im/nwjs/nw.js)
+
+
 ## Cool Apps
 
 - [Music Player: Alen-gao/Music](https://github.com/Alen-gao/Music)
@@ -20,6 +43,7 @@
 - [Student Client: h5lium/xstu](https://github.com/h5lium/xstu)
 - [Sample apps for node-webkit: zcbenz/nw-sample-apps](https://github.com/zcbenz/nw-sample-apps)
 
+
 ## Tools & Starters
 
 - [NW.js starter project powered by Gulp: nwjs-starter](https://github.com/Aluxian/nwjs-starter)
@@ -33,28 +57,27 @@
 - [NWjr](https://github.com/Antrikshy/nwjr) - Commandline utility to lauch NW.js apps
 
 ### Tools: Vue.js
+
 - [NW-Vue-DevTools](https://github.com/TheJaredWilcurt/nw-vue-devtools) - Installs latest Vue DevTools into the Chromium DevTools in NW.js
 - [NW.js + Vue boilerplate](https://github.com/elegantweb/nwjs-vue)
 - [Vue NW Seed](https://github.com/anchengjian/vue-nw-seed)
 
-## Offical Entries
-
-- [Offical Site](http://nwjs.io)
-- [Github Repo](https://github.com/nwjs/nw.js)
-- [Documentation (Wiki)](https://github.com/nwjs/nw.js/wiki)
-- [Gitter Chatroom](http://gitter.im/nwjs/nw.js)
-
-## NW.js Specific Frameworks
+### NW.js Specific Frameworks
 
 - [Universal GUI](http://ugui.io) - Give CLI's a GUI using just HTML
 
-## Slides & Posts
 
+## Tutorials, Posts, Slides
+
+- [NW.js, Vue, Vuetify](https://www.youtube.com/playlist?list=PLmJs3lfUmCdT9MyG60Oo6HM7xAn79vwZ0) - YouTube tutorial by Ackzell
+- [Making a desktop app: For complete beginners](https://gitlab.com/TheJaredWilcurt/battery-app-workshop) - Step-by-step instructions by The Jared Wilcurt
+- [Reducing app distribution size in NW.js](https://dev.to/thejaredwilcurt/reducing-app-distribution-size-in-nwjs-3d5f) - Detailed/advanced techniques. Article by The Jared Wilcurt
+- [Building a Desktop App with Vue: NW.js](https://dev.to/vuevixens/building-a-desktop-app-with-vue-nwjs-1f9e) - Article by Natalia Tepluhina
 - [Introduction to node-webkit (slides)](https://speakerdeck.com/zcbenz/node-webkit-app-runtime-based-on-chromium-and-node-dot-js)
 - [Creating Desktop Applications With node-webkit](https://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/)
 - [WebApp to DesktopApp with node-webkit (slides)](http://oldgeeksguide.github.io/presentations/html5devconf2013/wtod.html#/)
 - [Essay on the history and internals of the project](http://yedingding.com/2014/08/01/node-webkit-intro-en.html)
-- [Building your First Desktop App](https://gitlab.com/TheJaredWilcurt/battery-app-workshop/blob/master/README.md) (Step by step guide)
+
 
 ## License
 
