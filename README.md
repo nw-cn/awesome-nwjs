@@ -11,6 +11,7 @@
 - [Aluxian/WhatsApp-Desktop](https://github.com/Aluxian/WhatsApp-Desktop)
 - [Desktop of Gitter.IM: gitterHQ/desktop](https://github.com/gitterHQ/desktop)
 - [Scout-App - Sass GUI](http://scout-app.io)
+- [Koa11y - Accessibility Reports for websites](http://open-indy.github.io/Koa11y)
 - [Hybrid desktop app build tools for Meteor: buildhybrid/desktop](https://github.com/buildhybrid/desktop)
 - [Mango is markdown editor: egrcc/Mango](https://github.com/egrcc/Mango)
 - [Editor that speaks: Jayin/Voice-Editor](https://github.com/Jayin/Voice-Editor)
@@ -23,9 +24,18 @@
 
 - [NW.js starter project powered by Gulp: nwjs-starter](https://github.com/Aluxian/nwjs-starter)
 - [A minimalistic NW.js starter project for ninjas: nw-ninja](https://github.com/kessler/nw-ninja)
-- [NW.js + Vue boilerplate](https://github.com/elegantweb/nwjs-vue)
 - [Comprehensive boilerplate application for NW.js: nw-boilerplate](https://github.com/szwacz/nw-boilerplate)
 - [Lets you build your NW.js apps for mac: nw-builder](https://github.com/mllrsohn/nw-builder)
+- [NW.js ESM](https://github.com/fprijate/nwjs-esm) - Use ESM module imports in NW.js
+- [Jest Node NW Example](https://github.com/suchipi/jest-node-nw-example)
+- [NW.js Builder Phoenix](https://github.com/evshiron/nwjs-builder-phoenix) - Automated build tool system
+- [NW.js FFMPEG Prebuilt binaries](https://github.com/iteufel/nwjs-ffmpeg-prebuilt)
+- [NWjr](https://github.com/Antrikshy/nwjr) - Commandline utility to lauch NW.js apps
+
+### Tools: Vue.js
+- [NW-Vue-DevTools](https://github.com/TheJaredWilcurt/nw-vue-devtools) - Installs latest Vue DevTools into the Chromium DevTools in NW.js
+- [NW.js + Vue boilerplate](https://github.com/elegantweb/nwjs-vue)
+- [Vue NW Seed](https://github.com/anchengjian/vue-nw-seed)
 
 ## Offical Entries
 
@@ -49,3 +59,4 @@
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+ 
