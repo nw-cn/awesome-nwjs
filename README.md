@@ -42,6 +42,7 @@
 - [QQ Client: caofb/nodewebkitqq](https://github.com/caofb/nodewebkitqq)
 - [Student Client: h5lium/xstu](https://github.com/h5lium/xstu)
 - [Sample apps for node-webkit: zcbenz/nw-sample-apps](https://github.com/zcbenz/nw-sample-apps)
+- [pgAdmin4 - PostgreSQL Tools](https://github.com/postgres/pgadmin4)
 
 
 ## Tools & Starters
